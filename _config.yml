@@ -1,5 +1,5 @@
-title: Pragati's Portfolio
-description: Data Analyst | Machine Learning | Power BI
-theme: minimal-mistakes-jekyll
+title: "Pragati's Portfolio"
+description: "Data Analyst | Machine Learning | Power BI"
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
