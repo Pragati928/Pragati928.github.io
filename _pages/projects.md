@@ -14,11 +14,6 @@ permalink: /projects/
 ### 📌 **Analysis of Indian Health Insurance Data**  
 - **Tech Used:** Python, SQL, Tableau  
 - **Description:** Analyzed and visualized health insurance trends, identifying a 2.5x increase in insured individuals.  
-
-
-### 📌 **Your Third Project Here**  
-- **Tech Used:** Mention your tools  
-- **Description:** Briefly describe your work.  
  
 
 ### 📌 **Customer Churn Prediction**  
@@ -31,7 +26,7 @@ permalink: /projects/
 - **Description:** Forecasted future sales for a retail company using **ARIMA & Prophet models**, improving sales planning.  
 
 
-### 📌 **3. HR Analytics Dashboard**  
+### 📌 **HR Analytics Dashboard**  
 - **Tech Used:** SQL, PowerBI, Excel  
 - **Description:** Created an interactive HR dashboard to analyze employee attrition, identifying **key factors affecting turnover**.  
 
