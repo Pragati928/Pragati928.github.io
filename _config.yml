@@ -10,5 +10,6 @@ header_pages:
   - contact.md
   - projects.md
   - about.md
+  - certificates.md
 
 baseurl: ""
