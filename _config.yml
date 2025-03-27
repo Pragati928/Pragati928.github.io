@@ -3,4 +3,12 @@ description: "Data Analyst | Machine Learning | Power BI"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
+
+header_pages:
+  - pages/index.md
+  - pages/about.md
+  - pages/projects.md
+  - pages/contact.md
+  - pages/home.md  # If needed
+
 baseurl: ""
