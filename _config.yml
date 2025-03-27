@@ -5,10 +5,11 @@ plugins:
   - jekyll-include-cache
 
 header_pages:
-  - pages/index.md
-  - pages/about.md
-  - pages/projects.md
-  - pages/contact.md
-  - pages/home.md  # If needed
+  - _pages/index.md
+  - _pages/about.md
+  - _pages/projects.md
+  - _pages/contact.md
+  - _pages/home.md
+
 
 baseurl: ""
