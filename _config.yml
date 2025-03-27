@@ -6,6 +6,9 @@ plugins:
 
 header_pages:
   - index.md
+  - home.md
+  - contact.md
+  - projects.md
   - about.md
 
 baseurl: ""
