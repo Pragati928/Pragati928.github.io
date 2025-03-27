@@ -5,7 +5,7 @@ plugins:
   - jekyll-include-cache
 
 header_pages:
-  - /index.md
+  - index.md
   - _pages/about.md
   - _pages/projects.md
   - _pages/contact.md
